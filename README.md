@@ -1,2 +1,0 @@
-# latex-template
-Latex template
